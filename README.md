@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C, C++, Javascript**
 
-- 📫 How to reach me **namanmathur02@gmail.com**
+- 📫 How to reach me **namanmathur02001@gmail.com**
 
 - ⚡ Fun fact **Real programmers’ favourite line is “It works on my machine!”**
 
